@@ -1,3 +1,2 @@
 # snake
-its a snake game made in processing 3 framework which is based on Java language.
-#OOP
+Snake game made in processing just for fun after watching [Daniel Shiffman's](https://github.com/shiffman) version in p5.js
